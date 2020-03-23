@@ -11,7 +11,7 @@ interval = 6000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+height = "500px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -24,7 +24,7 @@ height = ""
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "headers/navajo_pp.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -41,25 +41,25 @@ height = ""
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/mnt_wrightson.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/lesthoto.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
   
 [[item]]
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/rincons.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
 [[item]]
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/CTcoast.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
   
 [[item]]
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/lesthoto_waterfall.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 +++
