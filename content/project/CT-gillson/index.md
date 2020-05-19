@@ -1,9 +1,9 @@
 ---
-title: Community responses to simulated climate change
-summary: An example of using the in-built project page.
+title: Ecosystem services assessment of University of Cape Town forest
+summary: Spring 2016
 tags:
 - Past
-date: "2016-04-27T00:00:00Z"
+date: "2016-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -26,4 +26,4 @@ url_video: ""
 slides: ""
 ---
 
-In my undergraduate career working with Dr. Meredith Thomsen, I statistically analyzed data from a five-year study to determine how precipitation and nitrogen availability affect the biomass of several plant functional groups in a California prairie system (http://websites.uwlax.edu/mthomsen/research_Angelo_overview.htm)
+Cape Town, South Africa is home to the fynbos biome, which has high plant diversity as well as high endemicity. Invasive species, which can competitively exclude native plant species, however, threaten fynbos biodiversity and the ecosystem services it provides. On the University of Cape Town (UCT) campus, alien pines were introduced and naturalized and now cover what is known as the UCT forest and dam area, which was historically fynbos vegetation. I assessed the cultural, regulating, provisioning, and supporting services of the UCT forest, taking into consideration student, faculty and staff opinions via a survey. Based on the results of the assessment, I proposed a management plan that would increase biodiversity and maximize ecosystem services of the UCT forest and dam area.
