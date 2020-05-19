@@ -6,6 +6,11 @@ name: Courtney Giebink
 authors:
 - admin
 
+# resume download button
+#btn:
+#- url : "https://sourcethemes.com/academic/docs/install/"
+#  label : "Download CV"
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -15,7 +20,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: University of Arizona
-  url: ""
+  url: "https://ltrr.arizona.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include forest ecology and ecological forecasting to enable adaptive management.
@@ -64,4 +69,6 @@ user_groups:
 
 I am passionate about using data to bridge the gap between basic ecology and natural resources management, including the conservation of biodiversity. I use statistical models to quantify and understand the effects of land-use and climate change on species’ performance, abundance, and geographic distributions, through the lens of the demographic niche. By quantifying the major drivers of population dynamics, I seek to improve ecological forecasting  under alternative management scenarios and accelerate the process of adaptive management. 
 
-In my Master’s research, I am creating a climate-sensitive version of a forestry growth and yield model using the information contained in tree-ring time series data. The model combines tree rings and forest inventory data, allowing me to parse the multiple drivers of tree growth and forest stand development, such as climate, competition, and site characteristics. The new model will be incorporated into a U.S. Forest Service management tool, the Forest Vegetation Simulator (FVS), which simulates forest dynamics under alternative scenarios. More accurate projections of the behavior of forests to climate change is necessary to make informed management decisions that will retain the ecosystem services provided by forests.
+In my [Master’s research]({{< ref “/project/MS-FVS/index.md” >}}), I am creating a climate-sensitive version of a forestry growth and yield model using the information contained in tree-ring time series data. The new model will be incorporated into a U.S. Forest Service management tool, the Forest Vegetation Simulator (FVS), which simulates forest dynamics.
+
+
