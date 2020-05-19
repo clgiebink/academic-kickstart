@@ -1,15 +1,15 @@
 ---
-title: Community responses to simulated climate change
-summary: An example of using the in-built project page.
+title: Temperature-driven outbreak of waterfowl disease
+summary: Spring 2015
 tags:
 - Past
-date: "2016-04-27T00:00:00Z"
+date: "2014-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: ""
+  caption: "(Sandland et al. 2014)"
   focal_point: Smart
 
 links: ""
@@ -26,4 +26,4 @@ url_video: ""
 slides: ""
 ---
 
-In my undergraduate career working with Dr. Meredith Thomsen, I statistically analyzed data from a five-year study to determine how precipitation and nitrogen availability affect the biomass of several plant functional groups in a California prairie system (http://websites.uwlax.edu/mthomsen/research_Angelo_overview.htm)
+An invasive snail, *Bithynia tentaculata*, found in the Upper Mississippi River (UMR) poses a significant threat to native waterfowl, for it is a host to parasites (e.g. *Sphaeridiotrema pseudoglobulus*), which have been associated with annual outbreak of waterfowl mortality. Snails hosting the parasite are consumed by waterfowl, where the parasite matures and develops eggs. Eggs are released in waterfowl waste and further infect snails (Sandland et al. 2014). Peirce, Sandland, Bennie, and Haro (2016) created a disease model to project annual outbreaks that are dependent on water temperature. While it was able to model the effect of temperature on transmission between snails and birds, temperature thresholds for parasite transmission were still unknown and therefore not included. In collaboration with Dr. Gregory Sandland, I collected data on the effect of temperature on parasite production, monitored snail lab conditions, and collected snails from the UMR. Snails with and without parasite exposure were put in an environmental chamber simulating seasonal temperature change - fall, winter, spring, summer. With each temperature change, parasite abundance was recorded. The results showed the seasonal start and end of parasite production and a peak in production in spring. The information gained can be used to inform the annual model of waterfowl disease as well as identify stages in the parasite life cycle that are most important for management.
