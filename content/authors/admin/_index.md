@@ -69,6 +69,6 @@ user_groups:
 
 I am passionate about using data to bridge the gap between basic ecology and natural resources management, including the conservation of biodiversity. I use statistical models to quantify and understand the effects of land-use and climate change on species’ performance, abundance, and geographic distributions, through the lens of the demographic niche. By quantifying the major drivers of population dynamics, I seek to improve ecological forecasting  under alternative management scenarios and accelerate the process of adaptive management. 
 
-In my [Master’s research]({{< ref “/project/MS-FVS/index.md” >}}), I am creating a climate-sensitive version of a forestry growth and yield model using the information contained in tree-ring time series data. The new model will be incorporated into a U.S. Forest Service management tool, the Forest Vegetation Simulator (FVS), which simulates forest dynamics.
+In my Master’s research, I am creating a climate-sensitive version of a forestry growth and yield model using the information contained in tree-ring time series data. The new model will be incorporated into a U.S. Forest Service management tool, the Forest Vegetation Simulator (FVS), which simulates forest dynamics.
 
 
