@@ -11,7 +11,7 @@ all_day: false
 authors: [Courtney Giebink, R. Justin DeRose, Mark Castle, John D. Shaw, Margaret E.K. Evans]
 date: "2020-05-05T13:00:00Z"
 date_end: "2020-05-06T15:00:00Z"
-event: Ecosystem Resilience 2: Ecosystem Transformation After Large-Scale Disturbance
+event: Ecosystem Transformation After Large-Scale Disturbance
 event_url: https://www.swcasc.arizona.edu/ecosystem-resilience-2-ecosystem-transformation-after-large-scale-disturbance/
 featured: false
 image:
