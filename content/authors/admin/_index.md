@@ -15,7 +15,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: MSc Graduate
 
 # Organizations/Affiliations
 organizations:
