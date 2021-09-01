@@ -28,6 +28,7 @@ bio: My research interests include forest ecology and ecological forecasting to 
 interests:
 - Forest Ecology
 - Carbon Accounting
+- Ecological Forecasting
 
 #education
 education:
