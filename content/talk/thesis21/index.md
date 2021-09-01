@@ -30,8 +30,8 @@ slides:
 summary: Thesis defense.
 tags: []
 title: "Climatic sensitivities derived from tree rings improve predictions of the Forest Vegetation Simulator growth and yield model"
-url_code: https://repository.arizona.edu/handle/10150/660175
-url_pdf: ""
+url_code: ""
+url_pdf: https://repository.arizona.edu/handle/10150/660175
 url_slides: ""
-url_video: "files/Thesis_Recording.mp4"
+url_video: https://youtu.be/3s6ioEnqtCI
 ---
