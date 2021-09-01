@@ -51,4 +51,4 @@ hero_media = "coring.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-My name is **Courtney Giebink** and I'm a MS student at the University of Arizona, working in the Laboratory of Tree-Ring Research with Dr. [Margaret E. K. Evans](https://www.ltrr.arizona.edu/~mekevans/).
+My name is **Courtney Giebink** and I'm a MSc gradue from the University of Arizona. I studied in the Laboratory of Tree-Ring Research with Dr. [Margaret E. K. Evans](https://www.ltrr.arizona.edu/~mekevans/).
