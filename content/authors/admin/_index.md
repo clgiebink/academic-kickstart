@@ -69,5 +69,5 @@ user_groups:
 
 I am passionate about using data to bridge the gap between basic ecology and natural resources management, including the conservation of biodiversity. I use statistical models to quantify and understand the effects of land-use and climate change on species’ performance, abundance, and geographic distributions, through the lens of the demographic niche. By quantifying the major drivers of population dynamics, I seek to improve ecological forecasting under alternative management scenarios and accelerate the process of adaptive management. 
 
-Currently, I am an ORAU contracter, working with the USFS Northern Research Station (NRS) Forest Inventory and Analysis (FIA) Carbon Science Group.
+Currently, I am working with the USFS Northern Research Station (NRS) Forest Inventory and Analysis (FIA) Carbon Science Group.
 
