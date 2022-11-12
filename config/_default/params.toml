@@ -86,11 +86,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1215 E Lowell St", city = "Tucson", region = "AZ", postcode = "85721", country = "United States", country_code = "US"}
+#address = {street = "", city = "", region = "", postcode = "", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "32.229029", longitude = "-110.952451"}
+#coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -182,7 +182,7 @@ plugins_js  = []
   date_format = "January 2006"
 
   # Citation style ("apa" or "mla")
-  citation_style = "apa"
+  citation_style = "mla"
 
 # Configuration of project pages.
 [projects]
@@ -192,7 +192,7 @@ plugins_js  = []
   #   3: Card
   #   4: Citation (publications only)
   post_view = 2
-  publication_view = 2
+  publication_view = 4
   talk_view = 2
 
 ############################
@@ -206,7 +206,7 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = true, post = true, docs = true, project = true, publication = false, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]
